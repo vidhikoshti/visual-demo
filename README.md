@@ -1,3 +1,3 @@
-# visual-demo
-this is my first git repository.
-author-vidhi koshti
+# Visual-demo
+This is my first git repository.
+Author-Vidhi Koshti
